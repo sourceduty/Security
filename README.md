@@ -33,3 +33,5 @@ While the Advanced Encryption Standard (AES) is widely regarded as a secure encr
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
 <br>
 [Private Island](https://github.com/sourceduty/Private_Island)
+<br>
+[Guns](https://github.com/sourceduty/Guns)
