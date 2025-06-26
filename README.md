@@ -52,6 +52,12 @@ The TV show COPS, which first aired in 1989, was one of the earliest examples of
 
 #
 
+![Security](https://github.com/user-attachments/assets/72ca38c1-2500-40c9-bcbd-b04dc9070575)
+
+[Security Scan]() is a custom GPT made to assist in identifying and analyzing potential security vulnerabilities across digital and physical infrastructure. It leverages data from cybersecurity frameworks, threat intelligence platforms, and vulnerability databases to create comprehensive threat maps and visual models—such as topology maps, heatmaps, and dependency graphs. These tools help correlate asset inventories with known vulnerabilities (like CVEs), exploitability scores, and system interdependencies to assess and prioritize risks. The GPT also integrates standards from NIST, MITRE ATT&CK, and OWASP to ensure its evaluations align with industry best practices, providing clear, actionable insights for both technical teams and non-technical stakeholders.
+
+#
+
 [Military AI](https://github.com/sourceduty/Military_AI)
 <br>
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
