@@ -22,7 +22,7 @@ While the Advanced Encryption Standard (AES) is widely regarded as a secure encr
 
 #
 
-![Security Private](https://github.com/user-attachments/assets/4b464170-ae96-4cf5-96d7-b274b8d09f23)
+![Security Terminal](https://github.com/user-attachments/assets/036fd351-5fe3-480c-ab29-7145ed64139d)
 
 [Security Terminal](https://chatgpt.com/g/g-68381fc687d4819195310c9f1ed8088c-security-terminal) was made to create and assist with building terminal-based cybersecurity tools optimized for Unix-like systems. It specializes in writing clean, efficient code in languages such as Python, Bash, and C, focusing on practical features like password protection, file encryption, authentication, access control, intrusion detection, and audit logging. All tools follow security best practices, including input validation, secure credential storage, and defenses against vulnerabilities like buffer overflows and command injection. The GPT also provides modular, minimalist designs with optional enhancements like ANSI color-coded output, installation instructions, system hardening suggestions, and debugging or testing support, making it a valuable assistant for developing secure, command-line-based utilities.
 
